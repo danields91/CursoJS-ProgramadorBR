@@ -55,10 +55,11 @@ switch (conceito) {
 
 for (var i = 0; i < alunos.length; i++){
     console.log(alunos[i])
-}*/
+}
 
 var alunos = ['Daniel','Camila', 'Arthur', "Alice", 'Helena']
 
 for (var i in alunos){
     console.log(alunos[i])
-}
+}*/
+
